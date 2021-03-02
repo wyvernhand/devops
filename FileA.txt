@@ -1,2 +1,2 @@
 "this is FileA" 
-version 1
+version 2
