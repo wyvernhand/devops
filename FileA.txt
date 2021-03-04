@@ -1,2 +1,2 @@
 "this is FileA" 
-version 3-Github Azure Boards
+version 3.2-Github Azure Boards
